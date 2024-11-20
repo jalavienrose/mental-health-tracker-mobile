@@ -1,0 +1,158 @@
+{
+   "checksum": "7b342caede8105dbfb813e008a1a2be9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13228812781231762",
+            "date_last_used": "0",
+            "guid": "ddc85c57-e874-4cee-8bf4-298e14f1d051",
+            "id": "9",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13228812781270512",
+            "date_last_used": "0",
+            "guid": "615d51d6-c0c7-4b50-9115-00d867bfd62d",
+            "id": "10",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13228812781271249",
+            "date_last_used": "0",
+            "guid": "35e6a98e-4f2a-4966-a218-445ed030bafb",
+            "id": "11",
+            "name": "",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13252739455320926",
+            "date_last_used": "13375847476964131",
+            "guid": "71613a51-33b1-446c-ad3a-9c35037bacd5",
+            "id": "12",
+            "name": "Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive",
+            "visit_count": 3
+         }, {
+            "date_added": "13375847323042416",
+            "date_last_used": "0",
+            "guid": "1cf55a78-1972-498f-b5aa-7fe7f4e17cb8",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PBP",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pbp-fasilkom-ui.github.io/ganjil-2025/",
+            "visit_count": 1
+         }, {
+            "date_added": "13375847432934280",
+            "date_last_used": "13375945693444028",
+            "guid": "a0a66aca-1efb-405e-be99-5bcc47aa4051",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "UNI",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.notion.so/UNI-3rd-99b150e47e354a2cb514ad3b4f6c0093",
+            "visit_count": 2
+         }, {
+            "date_added": "13375847543600594",
+            "date_last_used": "0",
+            "guid": "4beaab02-0f41-425e-a224-fd7a974410f5",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SCELE",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://scele.cs.ui.ac.id/",
+            "visit_count": 1
+         }, {
+            "children": [ {
+               "date_added": "13263734980512995",
+               "date_last_used": "0",
+               "guid": "2562d681-21cf-4984-bab6-8e501b1556ea",
+               "id": "7",
+               "name": "Lenovo Support",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://support.lenovo.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13263734980523998",
+               "date_last_used": "0",
+               "guid": "13afa23a-d4cc-4d64-b50e-0d22f1e5524e",
+               "id": "8",
+               "name": "Lenovo",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.lenovo.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13375877780601150",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "a68e3dd5-2b18-4212-a1d1-6473715ef6a6",
+            "id": "6",
+            "name": "Lenovo",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13375877776385051",
+         "date_last_used": "0",
+         "date_modified": "13375847543600594",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13375877776385054",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13375877776385056",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAvzaSSTAQAAEgAqGFhYQWRWc3pURTBnVVB5Vzc4c2VmdUE9PUgDoAYMEq0BCAgSqAEKHENaZ3JIdk1IUkJtZmcyY2VWUTg5WlpKc0podz0SJDEzYWZhMjNhLWQ0Y2MtNGQ2NC1iNTBlLTBkMjJmMWU1NTI0ZRgAIAEoATDpje39sTI40fvs/bEyQNH77P2xMkocWENuQ0h0WkZoR3U5MFFoeDlLQy9TTSt6T2M4PVofIh2zRlZJZHBuTllOdGFINGJ3YWZKdUVJVHdrQTJrPWUAAAAAwj4CYAISrQEIChKoAQocYnV6Zy9GZ2dkMittZ1lMcG5reGpKODJ4alcwPRIkNjE1ZDUxZDYtYzBjNy00YjUwLTkxMTUtMDBkODY3YmZkNjJkGAAgAigCMOaXrIeyMjjnv/WdhDFA5pesh7IyShw3V3VQNEF3K2NIeFVKU1RxL0FOYUtOVEtlNlU9Wh8iHbNRRy9hdnk1VDdQam4vYmJBYk9JRGNQaXI3Y009ZTj5OTPCPgJgBRKsAQgHEqcBChx2REhlR292ODl5b3FCNWlkMVh0QjVQdXZPS3M9EiQyNTYyZDY4MS0yMWNmLTQ5ODQtYmFiNi04ZTUwMWIxNTU2ZWEYACABKAEw6I3t/bEyONH77P2xMkDR++z9sTJKHHh1UHJTRFNMMENVd2pVYTVWYXpxaFQ1Z011VT1aHiIcZ0Fid0JHTHZFZTBQV0FreDExR0VPNk83UzVJPWUAAAAAwj4CYAISrQEIDhKoAQocSkpwMkpZUHdsV29DUHBWV2ZDWkJ6bUF2enBzPRIkYTBhNjZhY2EtMWVmYi00MDVlLWJlOTktNWJjYzQ3YWE0MDUxGAAgAigCMPWjnp6yMjiL7NbvsTJA9aOenrIyShwyWjZMTVZGdi9qbmtBN2pETm5kMVV1MEIwWXM9Wh8iHf1nR2pVU2RNUG5Zckc3ZVI4dmlCVGZlWXVtZG89ZRV6kwbCPgJgBRKtAQgMEqgBChxLQjZlVFpPMnhCUXBsL0hvTTZ6clpJdllXakU9EiQ3MTYxM2E1MS0zM2IxLTQ0NmMtYWQzYS05YzM1MDM3YmFjZDUYACACKAIw4pesh7IyOLrA9Z2EMUDil6yHsjJKHFVtU084YmJpNUVQV3FBSEV1ZC9wcUNmS1Aycz1aHyId9kpJNmN2Ym1FSnk3ZDZjSy9wSDhNWFB0cTRmbz1lEDD/5MI+AmAFEq0BCAYSqAEKHFBqRS90VFEvbXdzcWtJUjZOSndnRWNkSmdCVT0SJGE2OGUzZGQ1LTJiMTgtNDIxMi1hMWQxLTY0NzM3MTVlZjZhNhgAIAEoATDnje39sTI40fvs/bEyQNH77P2xMkocS0ZEdlN4bjM2dnVGQXFrNUNGZmlkTkw1MENJPVofIh3/eWdSbmxIbnkzRjFPWWdLZjRRZHlnc3gxbm1zPWUAAAAAwj4CYAISrQEIDxKoAQocWVc4UExCRlZBcGdqSW8vSm9RazNSbjJJMWNVPRIkNGJlYWFiMDItMGY0MS00MjVlLWEyMjQtZmQ3YTk3NDQxMGY1GAAgAigCMOeXrIeyMjim7NbvsTJA55esh7IyShxCRXppK1dHQXBLSGRqcE01b1JJb1dCWlZQU0U9Wh8iHf44S050YWJlUXpuOHFuZitzNkRnZUxwaUVMMzg9ZVfpuBbCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQyZGIyMDdjNC1hNGE4LTUwNmItOGVlNS0yM2RkM2ZjZDFiNTIYACAAKAAw6NKAhbAyOIiDuYvmL0CIg7mL5i9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEICxKoAQocbjJyYzJRbUNUZlV1amlZbHVRbDEvQlJEY0FvPRIkMzVlNmE5OGUtNGYyYS00OTY2LWEyMTgtNDQ1ZWQwMzBiYWZiGAAgAigCMOSXrIeyMjjOv/WdhDFA5Jesh7IyShxzVHUvWlJ1dkV6c0taR1ZSTkl6VmJWdE1TL0U9Wh8iHdkxSkp2U3R4Z3NJZjJQSVliQkg4b3NjVGxBMjg9ZQB7eWfCPgJgBRKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQwM2FkM2ViMi0xZjE4LTUyZWEtOWMzMS1iMDgwZGYxZTg3MjgYACAAKAAw59KAhbAyOK2BuYvmL0CtgbmL5i9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrQEIDRKoAQocWVdRbys2VzBudmV0Q0tqd1pDYjBtTzZvN3VNPRIkMWNmNTVhNzgtMTk3Mi00OThmLWI1YWEtN2ZlN2Y0ZTE3Y2I4GAAgAigCMOOXrIeyMjjx69bvsTJA45esh7IyShxvZWE0amY1aVFvWFZXWVNMcDdkTldpYW45alE9Wh8iHftad1FRUWJnQ3NUcElpdGY4Q3NTd1ZLdDdFdDQ9ZfzoU7bCPgJgBRKsAQgJEqcBChxJcGhrTkhLMU95VUdadUFMRmVabTNMVXZaYXM9EiRkZGM4NWM1Ny1lODc0LTRjZWUtOGJmNC0yOThlMTRmMWQwNTEYACACKAIw4Zesh7IyOJK+9Z2EMUDhl6yHsjJKHGRYU1NQUEZMSjM4Sm1lTW8vUUprZ0hZaFhqQT1aHiIcZ1h6clFhazA1b29WaG9JOHVkQkc5ZG96VHZJPWVC7Qs+wj4CYAUSjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkOTMxMzI0ZTMtZTZiMy01NzNlLWJlOTAtMWMwYTA0MWMxZTA0GAAgACgAMOnSgIWwMjihhbmL5i9AoYW5i+YvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
